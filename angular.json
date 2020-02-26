@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "clp-static-web": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "clp-static-web"
+    }
+  },
+  "defaultProject": "clp-static-web",
+  "cli": {
+    "analytics": "d1465f52-5d1a-4a56-bdbf-186ef200108e"
+  }
 }
